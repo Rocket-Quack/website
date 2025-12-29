@@ -1,0 +1,35 @@
+User-agent: *
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+Disallow: /contact-erpnext-tse.html
+Disallow: /contact-erpnext-sumup.html
+
+User-agent: GPTBot
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+Disallow: /contact-erpnext-tse.html
+Disallow: /contact-erpnext-sumup.html
+
+User-agent: CCBot
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+Disallow: /contact-erpnext-tse.html
+Disallow: /contact-erpnext-sumup.html
+
+User-agent: ClaudeBot
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+Disallow: /contact-erpnext-tse.html
+Disallow: /contact-erpnext-sumup.html
+
+User-agent: Google-Extended
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+Disallow: /contact-erpnext-tse.html
+Disallow: /contact-erpnext-sumup.html
+
+User-agent: PerplexityBot
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+Disallow: /contact-erpnext-tse.html
+Disallow: /contact-erpnext-sumup.html
