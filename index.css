@@ -126,6 +126,17 @@
   padding: 0;
 }
 
+.u-section-1 .u-placeholder-icon {
+  border: 2px dashed #c7c7c7;
+  border-radius: 50%;
+  color: #9a9a9a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
 .u-section-1 .u-text-7 {
   text-transform: uppercase;
   font-weight: 400;
@@ -210,16 +221,6 @@
 
   .u-section-1 .u-container-layout-5 {
     padding-top: 30px;
-  }
-}
-
-@media (min-width: 992px) {
-  .u-section-1 .u-repeater-1 > .u-repeater-item:nth-child(5) {
-    grid-column: 2;
-  }
-
-  .u-section-1 .u-repeater-1 > .u-repeater-item:nth-child(6) {
-    grid-column: 3;
   }
 }
 
